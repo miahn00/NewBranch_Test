@@ -10,3 +10,5 @@
 5. PC editer change ..
 
 6. Repositories 이름변경 ,, 주소도 변경됨. 이후 재설정. 
+
+7. git passwd 변경. 
